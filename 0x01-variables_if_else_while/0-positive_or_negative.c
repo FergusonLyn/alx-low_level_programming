@@ -12,7 +12,7 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
 	/*requesting user input*/
-	printf("Enter user input: ");
+	/*printf("Enter user input: "); */
 	scanf("%d", &n);
 	/*if statement to check if its positive/negative*/
 	if (n > 0)
